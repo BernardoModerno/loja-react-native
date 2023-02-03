@@ -1,1 +1,4 @@
 npx create-expo-app .
+npm i @react-navigation/native @react-navigation/native-stack --legacy-peer-deps
+npm i react-native-paper --legacy-peer-deps
+rafc
